@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(153, 151, 60);
+}
+
+.heading1 {
+  color: rgb(25, 11, 65);
+}
+.stylepic {
+  width: 200px;
+  height: 150px;
+  border: 1px solid black;
+}

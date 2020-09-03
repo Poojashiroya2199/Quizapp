@@ -1,0 +1,17 @@
+body {
+  background-color: lightgreen;
+}
+
+.heading1 {
+  color: rgb(201, 66, 66);
+}
+.style2 {
+  width: 150px;
+  height: 130px;
+  border: 1px solid black;
+}
+.style3 {
+  width: 300;
+  height: 200;
+  border: 2px solid black;
+}
